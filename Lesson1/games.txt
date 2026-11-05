@@ -1,0 +1,50 @@
+Игры: 
+Among Us                                    | Party                 | 2018 |  8,0 | Да 
+Assassin's Creed Valhalla                   | Action-adventure      | 2020 |  8,7 | Нет
+Call of Duty: Modern Warfare                | First-person shooter  | 2019 |  8,2 | Да 
+Cyberpunk 2077                              | RPG                   | 2020 |  7,5 | Да 
+FIFA 21                                     | Sports                | 2020 |  7,8 | Да 
+Fortnite                                    | Battle Royale         | 2017 |  8,5 | Да 
+Grand Theft Auto V                          | Action-adventure      | 2013 |  9,5 | Да 
+Minecraft                                   | Sandbox               | 2011 |  9,0 | Да 
+NBA 2K21                                    | Sports                | 2020 |  8,1 | Да 
+Overwatch                                   | First-person shooter  | 2016 |  8,9 | Да 
+Red Dead Redemption 2                       | Action-adventure      | 2018 |  9,6 | Нет
+Stardew Valley                              | Simulation            | 2016 |  9,2 | Нет
+The Legend of Zelda: Breath of the Wild     | Action-adventure      | 2017 |  9,7 | Нет
+The Sims 4                                  | Simulation            | 2014 |  8,5 | Да 
+The Witcher 3: Wild Hunt                    | RPG                   | 2015 |  9,8 | Нет
+
+Самые лучшие игры: 
+The Witcher 3: Wild Hunt                    | RPG                   | 2015 |  9,8 | Нет
+The Legend of Zelda: Breath of the Wild     | Action-adventure      | 2017 |  9,7 | Нет
+Red Dead Redemption 2                       | Action-adventure      | 2018 |  9,6 | Нет
+Grand Theft Auto V                          | Action-adventure      | 2013 |  9,5 | Да 
+Stardew Valley                              | Simulation            | 2016 |  9,2 | Нет
+Minecraft                                   | Sandbox               | 2011 |  9,0 | Да 
+Overwatch                                   | First-person shooter  | 2016 |  8,9 | Да 
+Assassin's Creed Valhalla                   | Action-adventure      | 2020 |  8,7 | Нет
+Fortnite                                    | Battle Royale         | 2017 |  8,5 | Да 
+The Sims 4                                  | Simulation            | 2014 |  8,5 | Да 
+Call of Duty: Modern Warfare                | First-person shooter  | 2019 |  8,2 | Да 
+NBA 2K21                                    | Sports                | 2020 |  8,1 | Да 
+Among Us                                    | Party                 | 2018 |  8,0 | Да 
+FIFA 21                                     | Sports                | 2020 |  7,8 | Да 
+Cyberpunk 2077                              | RPG                   | 2020 |  7,5 | Да 
+
+Новинки: 
+Assassin's Creed Valhalla                   | Action-adventure      | 2020 |  8,7 | Нет
+NBA 2K21                                    | Sports                | 2020 |  8,1 | Да 
+FIFA 21                                     | Sports                | 2020 |  7,8 | Да 
+Cyberpunk 2077                              | RPG                   | 2020 |  7,5 | Да 
+Call of Duty: Modern Warfare                | First-person shooter  | 2019 |  8,2 | Да 
+Red Dead Redemption 2                       | Action-adventure      | 2018 |  9,6 | Нет
+Among Us                                    | Party                 | 2018 |  8,0 | Да 
+The Legend of Zelda: Breath of the Wild     | Action-adventure      | 2017 |  9,7 | Нет
+Fortnite                                    | Battle Royale         | 2017 |  8,5 | Да 
+Stardew Valley                              | Simulation            | 2016 |  9,2 | Нет
+Overwatch                                   | First-person shooter  | 2016 |  8,9 | Да 
+The Witcher 3: Wild Hunt                    | RPG                   | 2015 |  9,8 | Нет
+The Sims 4                                  | Simulation            | 2014 |  8,5 | Да 
+Grand Theft Auto V                          | Action-adventure      | 2013 |  9,5 | Да 
+Minecraft                                   | Sandbox               | 2011 |  9,0 | Да 
